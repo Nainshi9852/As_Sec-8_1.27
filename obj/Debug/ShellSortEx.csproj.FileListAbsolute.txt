@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\ShellSortEx\ShellSortEx\bin\Debug\ShellSortEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\ShellSortEx\ShellSortEx\bin\Debug\ShellSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\ShellSortEx\ShellSortEx\bin\Debug\ShellSortEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\ShellSortEx\ShellSortEx\obj\Debug\ShellSortEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\ShellSortEx\ShellSortEx\obj\Debug\ShellSortEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\ShellSortEx\ShellSortEx\obj\Debug\ShellSortEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\ShellSortEx\ShellSortEx\obj\Debug\ShellSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\ShellSortEx\ShellSortEx\obj\Debug\ShellSortEx.pdb
